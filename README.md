@@ -1,7 +1,7 @@
 # Grocery-Billing-System_Devesh-Kumar_202501100700064_ECE-B
 
 
-**Problem Statement:**
+**Problem Statement**
 > A grocery store wants to calculate the total cost of items purchased by a customer.
 > Calculate the total cost of 5 different items & each items can be taken in multiple numbers.
 > Add a 10% discount if the total exceeds Rs. 100.
